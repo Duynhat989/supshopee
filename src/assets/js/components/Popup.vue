@@ -1,6 +1,14 @@
 <style scoped>
 .wrapper {
-    background-color: rgb(223, 223, 223);
+    background-color: white;
+    min-height: 100vh;
+}
+.left{
+    background-color: #fc816b;
+    min-height: 100vh;
+}
+.right{
+    min-height: 100vh;
 }
 </style>
 <template>
