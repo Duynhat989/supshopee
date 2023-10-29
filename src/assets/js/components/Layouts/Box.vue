@@ -1,12 +1,12 @@
 <style scoped>
-.header{
-    min-height: 50px;
-    width: 100%;
+.home{
+    padding: 10px;
+    color: rgb(75, 75, 75);
 }
 </style>
 <template>
-    <div class="header">
-        
+    <div class="home">
+        <div class="h4">Tính năng mới</div>
     </div>
 </template>
 <script setup>
